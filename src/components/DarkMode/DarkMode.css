@@ -15,7 +15,7 @@
     cursor: pointer;
     transition: 0.3s;
 }
-.dark_mode_label::after {
+.dark_mode_label:after {
     content: "";
     width: 25px;
     height: 25px;
